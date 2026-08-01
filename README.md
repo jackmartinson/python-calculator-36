@@ -1,2 +1,4 @@
-# python-calculator-36
+# Python Calculator 36
+
 A simple CLI calculator built in Python for basic math operations.
+
